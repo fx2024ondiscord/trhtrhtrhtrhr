@@ -1,4 +1,4 @@
-const API_KEY = 'YOUR-OPENROUTER-API-KEY'; // Replace this!
+const API_KEY = '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'; // Replace this!
 
 const chat = document.getElementById('chat');
 const messageBox = document.getElementById('messageBox');
